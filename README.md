@@ -1,4 +1,4 @@
 # Bamazon
-![](Assets/screenshot 1.png)
+![](images/Screenshot1.png)
 
-![](Assets/screenshot 2.png)
+![](images/screenshot2.png)
